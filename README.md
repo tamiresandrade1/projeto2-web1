@@ -1,1 +1,26 @@
 # projeto2-web1
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfólio de Imagens</title>
+    </head>
+    <body>
+        <h1>Meu Portfólio</h1>
+        <h2>Galeria de Fotos</h2>
+        <figure>
+            <img src="img/html5.png"
+             alt="logo do HTML" width="75" height="90">
+             <figcaption>O HTML5 é a versão mais recente da linguagem HTML, responsável por estruturar e apresentar conteúdo na web.</figcaption>
+        </figure>
+        <figure>
+            <img src="img/CSS_logo.png"
+             alt="logo do CSS" width="75" height="90">
+            <figcaption>O CSS3 é utilizado para adicionar estilo aos elementos em HTML, controlando a aparência de uma página, como layout, cores, fontes e outros detalhes visuais.</figcaption>
+        </figure>
+        <figure>
+            <img src="img/JavaScript_logo.png"
+             alt="logo do JavaScript" width="75" height="90">
+             <figcaption>O JavaScript é uma linguagem interpretada, dinâmica e orientada a objetos, amplamente empregada no desenvolvimento de sites e aplicações. Além de proporcionar interatividade, é essencial para o funcionamento de aplicações web modernas.</figcaption>
+        </figure>
+    </body>
